@@ -1,1 +1,24 @@
-
+{
+  "name": "PornHub.com",
+  "version": "0.0.1",
+  "description": "PornHub.com RPC",
+  "main": "node rpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node rpc.js"
+  },
+  "engines": { "node": "9.3.0" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C0oL3r/rpc-c0ol3r.git"
+  },
+  "author": "C0oL3r",
+  "license": "rYA6vQl9CG",
+  "bugs": {
+    "url": "https://github.com/C0oL3r/rpc-c0ol3r"
+  },
+  "homepage": "https://github.com/C0oL3r/rpc-c0ol3r#readme",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.10"
+  }
+}
