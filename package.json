@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/C0oL3r/rpc-c0ol3r#readme",
   "dependencies": {
-    "discord-rpc": "^3.0.0"
+    "discord-rpc"
   }
 }
