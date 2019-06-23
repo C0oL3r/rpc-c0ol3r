@@ -1,5 +1,5 @@
 const DiscordRPC = require('discord-rpc');
-const ClientId = '444849442332344321';
+const ClientId = '255005992805203968';
 const action = 'Watching "Hot Stepsister gives amazing blowjob to young brother"'
 DiscordRPC.register(ClientId);
 const rpc = new DiscordRPC.Client({ transport: 'ipc' });
